@@ -57,7 +57,7 @@ mkdir ~/.config/nvim/plugins/plugged
 
 
 
-### Node Js Nmp Installations
+### Node Js Nmp Installation
 
 - Arch :
 ```
@@ -74,7 +74,7 @@ sudo apt install nodejs npm
 :PlugInstall
 ```
 
-### COC Installations
+### COC Installation
 
 - Arch :
 ```
