@@ -16,6 +16,12 @@
 ### Code Appearance
 ![](images/5.png)
 
+
+
+### Open [NNN](https://nnnofficial.github.io/) In Neovim By CTRL + Y
+![](images/6.png)
+
+
 ### Neovim Installations
 - Arch :
 ```
@@ -24,8 +30,7 @@ yay -S neovim-nightly
 ### For Other Distro, See [This Page](https://github.com/neovim/neovim/wiki/Installing-Neovim)
 
 
-### Open [NNN](https://nnnofficial.github.io/) In Neovim By CTRL + Y
-![](images/6.png)
+
 
 ### VIM-PLUG
 - https://github.com/junegunn/vim-plug
