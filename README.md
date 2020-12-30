@@ -69,7 +69,7 @@ sudo apt install nodejs npm
 ```
 
 
-### Now , Open Neovim And Run Under Command :
+### Now , Open And Run Below Command :
 ```
 :PlugInstall
 ```
@@ -84,12 +84,12 @@ sudo pacman -S python python-pip
 ```
 sudo apt install python3-pip
 ```
-### Now , Run Under Command :
+### Now ,  Run Below Command :
 ```
 python3 -m pip install --user --upgrade pynvim
 ```
 ### [Using coc extensions](https://github.com/neoclide/coc.nvim/wiki/Using-coc-extensions)
-### Then , Open Neovim And Run Under Command :
+### Then , Open and Run Below Command :
 ```
 :CocInstall coc-json coc-python  coc-vimlsp coc-tsserver  coc-yank coc-sh coc-clangd
 ```
