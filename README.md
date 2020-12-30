@@ -32,7 +32,7 @@ yay -S neovim-nightly
 
 
 
-### VIM-PLUG
+### Vim-Plug
 - https://github.com/junegunn/vim-plug
 - https://www.chrisatmachine.com/Neovim/01-vim-plug
 - https://www.youtube.com/watch?v=QB9V__3VO2s
