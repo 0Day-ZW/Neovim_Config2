@@ -22,7 +22,7 @@
 ![](images/6.png)
 
 
-### Neovim Installations
+### Neovim Installation
 - Arch :
 ```
 yay -S neovim-nightly
