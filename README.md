@@ -19,7 +19,6 @@
 
 
 ### Open [NNN](https://nnnofficial.github.io/) In Neovim By CTRL + Y
-![](images/6.png)
 
 
 ### Neovim Installation
